@@ -1,4 +1,4 @@
-# battery_model
+# Battery State of Charge
 
 ## 1. Introduction
 This is an overview of my Python script that reads battery data from a CSV file, processes it using the Pandas library, performs data analysis, and builds a machine learning model to predict the State of Charge (SoC) of a battery. The script uses Lazy Predict to quickly evaluate various regression models and employs Extra Trees Regressor for the final prediction.
